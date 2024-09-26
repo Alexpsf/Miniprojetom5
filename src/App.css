@@ -1,0 +1,14 @@
+.app-container {
+  max-width: 1200px; /* Limita a largura máxima da aplicação */
+  margin: 0 auto; /* Centraliza a aplicação na tela */
+  padding: 20px; /* Adiciona espaçamento interno */
+  font-family: 'Poppins', sans-serif; /* Define a fonte padrão */
+}
+
+h1 {
+  text-align: center; /* Centraliza o título */
+  color: #007bff; /* Define a cor do título */
+  margin-bottom: 20px; /* Espaçamento inferior */
+}
+
+/* Estilos adicionais podem ser adicionados aqui */
